@@ -1,4 +1,4 @@
-# 🤖 AUTODESKAI - Adaptive Gesture Recognition System
+# AUTODESKAI - Adaptive Gesture Recognition System
 
 > **AI-Powered Hand Gesture Control with Automatic Learning**
 > 
